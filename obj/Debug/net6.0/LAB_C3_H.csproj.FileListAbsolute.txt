@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\LAB_C3_H.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\LAB_C3_H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\LAB_C3_H.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\LAB_C3_H.AssemblyInfo.cs
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\LAB_C3_H.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\bin\Debug\net6.0\LAB_C3_H.exe
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\bin\Debug\net6.0\LAB_C3_H.deps.json
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\bin\Debug\net6.0\LAB_C3_H.runtimeconfig.json
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\bin\Debug\net6.0\LAB_C3_H.dll
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\bin\Debug\net6.0\LAB_C3_H.pdb
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\LAB_C3_H.dll
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\refint\LAB_C3_H.dll
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\LAB_C3_H.pdb
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\LAB_C3_H.genruntimeconfig.cache
+C:\Users\anton\Desktop\DDHOOLA\LAB_C3_H\obj\Debug\net6.0\ref\LAB_C3_H.dll
